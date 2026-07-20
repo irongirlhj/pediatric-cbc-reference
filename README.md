@@ -58,10 +58,13 @@
 별도의 서버나 설치가 필요 없습니다. **`index.html`을 브라우저로 열면 바로 동작합니다.**
 
 ```
-git clone <이 저장소 주소>
+git clone https://github.com/irongirlhj/pediatric-cbc-reference.git
 cd pediatric-cbc-reference
 # index.html 을 더블클릭하거나 브라우저로 열기
 ```
+
+정적 파일만으로 구성되어 있어, 필요 시 GitHub Pages·사내 웹서버 등 임의의 정적 호스팅에
+그대로 올려 사용할 수 있습니다.
 
 로컬 서버로 띄우려면 (선택):
 
